@@ -1,4 +1,5 @@
-[
+// === DONNÉES McDonald's ===
+  const mcdonaldsData = [
   {"categorie":"Burgers et Sandwichs","produit":"Hamburger","taille":"unique","poids_g":105,"calories_kcal":261,"energie_kJ":1094,"matieres_grasses_g":9,"acides_gras_satures_g":4.2,"glucides_g":29,"sucres_g":6.3,"fibres_g":2.1,"proteines_g":13,"sel_g":1.1,"nutri_score":"C"},
   {"categorie":"Burgers et Sandwichs","produit":"Cheeseburger","taille":"unique","poids_g":119,"calories_kcal":300,"energie_kJ":1258,"matieres_grasses_g":14,"acides_gras_satures_g":6.5,"glucides_g":33,"sucres_g":6.6,"fibres_g":2.1,"proteines_g":15,"sel_g":1.2,"nutri_score":"C"},
   {"categorie":"Burgers et Sandwichs","produit":"Big Mac","taille":"unique","poids_g":212,"calories_kcal":503,"energie_kJ":2108,"matieres_grasses_g":24,"acides_gras_satures_g":10.5,"glucides_g":42,"sucres_g":8.5,"fibres_g":3.2,"proteines_g":26,"sel_g":2.1,"nutri_score":"C"},
